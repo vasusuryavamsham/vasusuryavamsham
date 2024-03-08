@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vasusuryavamsham
 - 👀 I’m interested in coding....
-- 🌱 I’m currently learning  B.Tech third year
+- 🌱 I’m currently learning  B.Tech Final year
 - 💞️ I’m looking to collaborate on ml,data science projects
 - 📫 How to reach me vasu57907@gmail.com
 
